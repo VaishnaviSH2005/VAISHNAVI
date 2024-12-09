@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 #include<stdio.h>hufehiukRHUO
+=======
+hi hello how are you 
+>>>>>>> 55aa648ba1af26eb161618f1107587a5f56e8f30
